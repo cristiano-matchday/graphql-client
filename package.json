@@ -1,7 +1,7 @@
 {
-  "name": "graphql-client",
+  "name": "com.graphql-client",
   "version": "1.0.0",
-  "displayName": "Your Package Name",
+  "displayName": "gqlclient",
   "description": "Description of your package",
   "unity": "2020.3",
   "keywords": [
